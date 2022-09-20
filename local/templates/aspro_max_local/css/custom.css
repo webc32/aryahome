@@ -1001,3 +1001,7 @@ margin-top: 20px;
         float: inherit !important;
     }
 }
+/*text banner*/
+.banner_title .head-title a{
+    font-family: Playfair;
+}
