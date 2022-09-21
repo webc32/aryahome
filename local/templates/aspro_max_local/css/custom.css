@@ -1229,3 +1229,7 @@ margin-top: 20px;
 .section-gallery-wrapper{
     overflow: hidden;
 }
+/*text banner*/
+.banner_title .head-title a{
+    font-family: Playfair;
+}
